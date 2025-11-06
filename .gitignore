@@ -1,0 +1,9 @@
+﻿# ignore private evidence
+evidence/
+*.jpg
+*.png
+*.mp4
+*.zip
+*.tgz
+*.jpeg
+*.pdf
